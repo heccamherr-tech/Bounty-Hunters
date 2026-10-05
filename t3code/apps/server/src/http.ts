@@ -6,15 +6,18 @@ import * as FileSystem from "effect/FileSystem";
 import * as Option from "effect/Option";
 import * as Path from "effect/Path";
 import { cast } from "effect/Function";
+import * as zlib from "node:zlib";
 import {
   HttpBody,
   HttpClient,
   HttpClientResponse,
+  HttpMiddleware,
   HttpRouter,
   HttpServerResponse,
   HttpServerRequest,
 } from "effect/unstable/http";
 import { OtlpTracer } from "effect/unstable/observability";
+
 
 import {
   ATTACHMENTS_ROUTE_PREFIX,
@@ -44,6 +47,117 @@ export const browserApiCorsLayer = HttpRouter.cors({
   allowedHeaders: [...browserApiCorsAllowedHeaders],
   maxAge: 600,
 });
+
+export const COMPRESSION_THRESHOLD_BYTES = 1024;
+
+export const UNCOMPRESSIBLE_CONTENT_TYPES = new Set([
+  "application/zip",
+  "application/x-zip-compressed",
+  "application/gzip",
+  "application/x-gzip",
+  "application/x-bzip2",
+  "application/x-brotli",
+  "application/x-7z-compressed",
+  "application/x-rar-compressed",
+  "application/zstd",
+  "application/x-compressed",
+  "font/woff",
+  "font/woff2",
+]);
+
+export function isCompressibleContentType(contentType: string | undefined): boolean {
+  if (!contentType) {
+    return true;
+  }
+  const mime = contentType.split(";")[0]?.trim().toLowerCase() ?? "";
+  if (!mime) {
+    return true;
+  }
+  if (mime === "image/svg+xml") {
+    return true;
+  }
+  if (
+    mime.startsWith("image/") ||
+    mime.startsWith("video/") ||
+    mime.startsWith("audio/")
+  ) {
+    return false;
+  }
+  return !UNCOMPRESSIBLE_CONTENT_TYPES.has(mime);
+}
+
+export function selectCompressionEncoding(
+  acceptEncoding: string | undefined,
+): "br" | "gzip" | null {
+  if (!acceptEncoding) {
+    return null;
+  }
+  const enc = acceptEncoding.toLowerCase();
+  // Prefer brotli over gzip when both are accepted
+  if (enc.includes("br")) {
+    return "br";
+  }
+  if (enc.includes("gzip")) {
+    return "gzip";
+  }
+  return null;
+}
+
+export const httpCompressionMiddleware = HttpMiddleware.make((httpApp) =>
+  Effect.gen(function* () {
+    const request = yield* HttpServerRequest.HttpServerRequest;
+    const response = yield* httpApp;
+
+    if (response.status < 200 || response.status === 204 || response.status === 304) {
+      return response;
+    }
+
+    if (response.headers["content-encoding"]) {
+      return response;
+    }
+
+    const encoding = selectCompressionEncoding(request.headers["accept-encoding"]);
+    if (!encoding) {
+      return response;
+    }
+
+    const body = response.body;
+    if (body._tag !== "Uint8Array") {
+      return response;
+    }
+
+    const rawData = body.body;
+    if (!(rawData instanceof Uint8Array) || rawData.byteLength < COMPRESSION_THRESHOLD_BYTES) {
+      return response;
+    }
+
+    const contentType = body.contentType || (response.headers["content-type"] as string | undefined);
+    if (!isCompressibleContentType(contentType)) {
+      return response;
+    }
+
+    const compressed =
+      encoding === "br"
+        ? zlib.brotliCompressSync(rawData)
+        : zlib.gzipSync(rawData);
+
+    const vary = response.headers["vary"];
+    const nextVary = vary
+      ? vary.toLowerCase().includes("accept-encoding")
+        ? vary
+        : `${vary}, Accept-Encoding`
+      : "Accept-Encoding";
+
+    return response.pipe(
+      HttpServerResponse.setBody(HttpBody.uint8Array(compressed, body.contentType)),
+      HttpServerResponse.setHeader("Content-Encoding", encoding),
+      HttpServerResponse.setHeader("Vary", nextVary),
+    );
+  }),
+);
+
+export const httpCompressionLayer = HttpRouter.use(httpCompressionMiddleware);
+
 
 export function isLoopbackHostname(hostname: string): boolean {
   const normalizedHostname = hostname
