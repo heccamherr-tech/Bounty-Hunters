@@ -10,6 +10,7 @@ import {
   serverEnvironmentRouteLayer,
   staticAndDevRouteLayer,
   browserApiCorsLayer,
+  httpCompressionLayer,
 } from "./http.ts";
 import { fixPath } from "./os-jank.ts";
 import { websocketRpcRouteLayer } from "./ws.ts";
@@ -311,8 +312,10 @@ export const makeRoutesLayer = Layer.mergeAll(
   projectFaviconRouteLayer,
   serverEnvironmentRouteLayer,
   staticAndDevRouteLayer,
-  websocketRpcRouteLayer,
-).pipe(Layer.provide(browserApiCorsLayer));
+).pipe(
+  Layer.provide(browserApiCorsLayer),
+  Layer.provide(httpCompressionLayer),
+);
 
 export const makeServerLayer = Layer.unwrap(
   Effect.gen(function* () {
