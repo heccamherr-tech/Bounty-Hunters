@@ -1,0 +1,1136 @@
+{
+"tasaExito": 80.73,
+"ratio": 0.99,
+"totalTrades": 109,
+"pyg": [
+{
+"fecha": "14/10",
+"valor": 5000
+},
+{
+"fecha": "15/10",
+"valor": 6941
+},
+{
+"fecha": "16/10",
+"valor": 16490
+},
+{
+"fecha": "17/10",
+"valor": 16471.53
+},
+{
+"fecha": "18/10",
+"valor": 16365.2
+},
+{
+"fecha": "19/10",
+"valor": 25067.95
+},
+{
+"fecha": "20/10",
+"valor": 24315.54
+}
+],
+"operaciones": [
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "20/10/2026 02:35:21",
+"precioApertura": 4134.02,
+"cierre": "20/10/2026 03:17:53",
+"precioCierre": 4135.97,
+"gananciaNeta": -97.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "20/10/2026 02:35:21",
+"precioApertura": 4134.02,
+"cierre": "20/10/2026 03:17:53",
+"precioCierre": 4135.97,
+"gananciaNeta": -97.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "20/10/2026 02:35:22",
+"precioApertura": 4134.02,
+"cierre": "20/10/2026 03:17:53",
+"precioCierre": 4135.97,
+"gananciaNeta": -97.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "20/10/2026 02:35:21",
+"precioApertura": 4134.02,
+"cierre": "20/10/2026 03:17:53",
+"precioCierre": 4135.97,
+"gananciaNeta": -97.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "20/10/2026 02:35:22",
+"precioApertura": 4134.02,
+"cierre": "20/10/2026 03:17:53",
+"precioCierre": 4135.97,
+"gananciaNeta": -97.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "BTCUSD",
+"apertura": "20/10/2026 02:35:05",
+"precioApertura": 82073.96,
+"cierre": "20/10/2026 03:17:53",
+"precioCierre": 81635.38,
+"gananciaNeta": -239.81,
+"digits": 3
+},
+{
+"lado": "BUY",
+"activo": "BTCUSD",
+"apertura": "20/10/2026 00:07:16",
+"precioApertura": 82032.1,
+"cierre": "20/10/2026 00:09:19",
+"precioCierre": 82022.92,
+"gananciaNeta": -25.1,
+"digits": 3
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 10:26:37",
+"precioApertura": 4185.66,
+"cierre": "19/10/2026 10:39:30",
+"precioCierre": 4184.23,
+"gananciaNeta": 71.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 10:26:37",
+"precioApertura": 4185.66,
+"cierre": "19/10/2026 10:39:30",
+"precioCierre": 4184.23,
+"gananciaNeta": 71.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 10:26:38",
+"precioApertura": 4185.68,
+"cierre": "19/10/2026 10:39:30",
+"precioCierre": 4184.23,
+"gananciaNeta": 72.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 10:26:39",
+"precioApertura": 4185.8,
+"cierre": "19/10/2026 10:39:30",
+"precioCierre": 4184.23,
+"gananciaNeta": 78.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 10:26:39",
+"precioApertura": 4185.84,
+"cierre": "19/10/2026 10:39:30",
+"precioCierre": 4184.23,
+"gananciaNeta": 80.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 10:26:37",
+"precioApertura": 4185.8,
+"cierre": "19/10/2026 10:39:30",
+"precioCierre": 4184.23,
+"gananciaNeta": 78.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 10:26:37",
+"precioApertura": 4185.68,
+"cierre": "19/10/2026 10:39:30",
+"precioCierre": 4184.23,
+"gananciaNeta": 72.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 10:26:36",
+"precioApertura": 4185.82,
+"cierre": "19/10/2026 10:39:30",
+"precioCierre": 4184.23,
+"gananciaNeta": 79.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 10:26:37",
+"precioApertura": 4185.81,
+"cierre": "19/10/2026 10:39:30",
+"precioCierre": 4184.23,
+"gananciaNeta": 79,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 10:26:37",
+"precioApertura": 4185.81,
+"cierre": "19/10/2026 10:39:30",
+"precioCierre": 4184.23,
+"gananciaNeta": 79,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 10:26:37",
+"precioApertura": 4185.8,
+"cierre": "19/10/2026 10:39:30",
+"precioCierre": 4184.23,
+"gananciaNeta": 78.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 06:11:47",
+"precioApertura": 4179.06,
+"cierre": "19/10/2026 10:24:02",
+"precioCierre": 4187.45,
+"gananciaNeta": 839,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 06:11:47",
+"precioApertura": 4179.07,
+"cierre": "19/10/2026 10:24:02",
+"precioCierre": 4187.45,
+"gananciaNeta": 838,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 06:11:47",
+"precioApertura": 4179.06,
+"cierre": "19/10/2026 10:24:02",
+"precioCierre": 4187.45,
+"gananciaNeta": 839,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 06:11:55",
+"precioApertura": 4178.55,
+"cierre": "19/10/2026 10:24:02",
+"precioCierre": 4187.45,
+"gananciaNeta": 445,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 06:23:26",
+"precioApertura": 4181.18,
+"cierre": "19/10/2026 10:24:02",
+"precioCierre": 4187.45,
+"gananciaNeta": 313.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 06:11:47",
+"precioApertura": 4179.06,
+"cierre": "19/10/2026 10:24:02",
+"precioCierre": 4187.45,
+"gananciaNeta": 839,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 05:29:46",
+"precioApertura": 4171.4,
+"cierre": "19/10/2026 06:11:23",
+"precioCierre": 4179.3,
+"gananciaNeta": -790,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 05:29:45",
+"precioApertura": 4171.4,
+"cierre": "19/10/2026 06:11:23",
+"precioCierre": 4179.3,
+"gananciaNeta": -790,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 05:29:46",
+"precioApertura": 4171.45,
+"cierre": "19/10/2026 06:11:23",
+"precioCierre": 4179.3,
+"gananciaNeta": -785,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 05:29:46",
+"precioApertura": 4171.45,
+"cierre": "19/10/2026 06:11:23",
+"precioCierre": 4179.3,
+"gananciaNeta": -785,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 05:29:46",
+"precioApertura": 4171.4,
+"cierre": "19/10/2026 06:11:23",
+"precioCierre": 4179.3,
+"gananciaNeta": -790,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 05:04:22",
+"precioApertura": 4178.29,
+"cierre": "19/10/2026 05:10:12",
+"precioCierre": 4184.34,
+"gananciaNeta": 605,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 05:04:22",
+"precioApertura": 4178.31,
+"cierre": "19/10/2026 05:10:12",
+"precioCierre": 4184.34,
+"gananciaNeta": 603,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 05:04:23",
+"precioApertura": 4178.31,
+"cierre": "19/10/2026 05:10:12",
+"precioCierre": 4184.34,
+"gananciaNeta": 603,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 05:04:23",
+"precioApertura": 4178.31,
+"cierre": "19/10/2026 05:10:12",
+"precioCierre": 4184.34,
+"gananciaNeta": 603,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 05:04:24",
+"precioApertura": 4178.24,
+"cierre": "19/10/2026 05:10:12",
+"precioCierre": 4184.34,
+"gananciaNeta": 610,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 02:06:40",
+"precioApertura": 4179.77,
+"cierre": "19/10/2026 02:30:05",
+"precioCierre": 4183.82,
+"gananciaNeta": 202.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 02:06:40",
+"precioApertura": 4179.77,
+"cierre": "19/10/2026 02:30:05",
+"precioCierre": 4183.82,
+"gananciaNeta": 202.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 02:06:40",
+"precioApertura": 4179.77,
+"cierre": "19/10/2026 02:30:05",
+"precioCierre": 4183.82,
+"gananciaNeta": 202.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 02:06:40",
+"precioApertura": 4179.77,
+"cierre": "19/10/2026 02:30:05",
+"precioCierre": 4183.82,
+"gananciaNeta": 202.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 02:06:40",
+"precioApertura": 4179.77,
+"cierre": "19/10/2026 02:30:05",
+"precioCierre": 4183.82,
+"gananciaNeta": 202.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 02:06:41",
+"precioApertura": 4179.77,
+"cierre": "19/10/2026 02:30:05",
+"precioCierre": 4183.82,
+"gananciaNeta": 202.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 02:06:41",
+"precioApertura": 4179.77,
+"cierre": "19/10/2026 02:30:05",
+"precioCierre": 4183.82,
+"gananciaNeta": 202.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 02:06:41",
+"precioApertura": 4179.82,
+"cierre": "19/10/2026 02:30:05",
+"precioCierre": 4183.82,
+"gananciaNeta": 200,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 02:06:41",
+"precioApertura": 4179.82,
+"cierre": "19/10/2026 02:30:05",
+"precioCierre": 4183.82,
+"gananciaNeta": 200,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:25:39",
+"precioApertura": 4176.74,
+"cierre": "19/10/2026 02:05:43",
+"precioCierre": 4179.83,
+"gananciaNeta": 154.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:25:40",
+"precioApertura": 4176.74,
+"cierre": "19/10/2026 02:05:43",
+"precioCierre": 4179.83,
+"gananciaNeta": 154.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:25:40",
+"precioApertura": 4176.74,
+"cierre": "19/10/2026 02:05:43",
+"precioCierre": 4179.83,
+"gananciaNeta": 154.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "NDXUSD",
+"apertura": "19/10/2026 01:17:30",
+"precioApertura": 29334.7,
+"cierre": "19/10/2026 02:05:43",
+"precioCierre": 29386,
+"gananciaNeta": 511,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:25:39",
+"precioApertura": 4176.74,
+"cierre": "19/10/2026 02:05:43",
+"precioCierre": 4179.83,
+"gananciaNeta": 154.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:12:09",
+"precioApertura": 4173.79,
+"cierre": "19/10/2026 01:15:41",
+"precioCierre": 4175.11,
+"gananciaNeta": 66,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:12:09",
+"precioApertura": 4173.79,
+"cierre": "19/10/2026 01:15:41",
+"precioCierre": 4175.11,
+"gananciaNeta": 66,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:12:08",
+"precioApertura": 4173.86,
+"cierre": "19/10/2026 01:15:41",
+"precioCierre": 4175.11,
+"gananciaNeta": 62.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:12:08",
+"precioApertura": 4173.86,
+"cierre": "19/10/2026 01:15:41",
+"precioCierre": 4175.11,
+"gananciaNeta": 62.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:12:08",
+"precioApertura": 4173.79,
+"cierre": "19/10/2026 01:15:41",
+"precioCierre": 4175.11,
+"gananciaNeta": 66,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:12:07",
+"precioApertura": 4173.86,
+"cierre": "19/10/2026 01:15:41",
+"precioCierre": 4175.11,
+"gananciaNeta": 62.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:12:08",
+"precioApertura": 4173.86,
+"cierre": "19/10/2026 01:15:41",
+"precioCierre": 4175.11,
+"gananciaNeta": 62.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:12:08",
+"precioApertura": 4173.86,
+"cierre": "19/10/2026 01:15:41",
+"precioCierre": 4175.11,
+"gananciaNeta": 62.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:10:40",
+"precioApertura": 4171.87,
+"cierre": "19/10/2026 01:11:29",
+"precioCierre": 4173.91,
+"gananciaNeta": 102,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "NDXUSD",
+"apertura": "19/10/2026 01:10:16",
+"precioApertura": 29328.4,
+"cierre": "19/10/2026 01:11:29",
+"precioCierre": 29335.9,
+"gananciaNeta": 73,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:10:38",
+"precioApertura": 4171.68,
+"cierre": "19/10/2026 01:11:29",
+"precioCierre": 4173.91,
+"gananciaNeta": 111.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:10:40",
+"precioApertura": 4171.87,
+"cierre": "19/10/2026 01:11:29",
+"precioCierre": 4173.91,
+"gananciaNeta": 102,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:06:59",
+"precioApertura": 4169.02,
+"cierre": "19/10/2026 01:09:49",
+"precioCierre": 4170.55,
+"gananciaNeta": 76.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:06:50",
+"precioApertura": 4168.79,
+"cierre": "19/10/2026 01:09:49",
+"precioCierre": 4170.55,
+"gananciaNeta": 88,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:06:52",
+"precioApertura": 4168.61,
+"cierre": "19/10/2026 01:09:49",
+"precioCierre": 4170.55,
+"gananciaNeta": 97,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:06:54",
+"precioApertura": 4168.71,
+"cierre": "19/10/2026 01:09:49",
+"precioCierre": 4170.55,
+"gananciaNeta": 92,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:06:55",
+"precioApertura": 4168.93,
+"cierre": "19/10/2026 01:09:49",
+"precioCierre": 4170.55,
+"gananciaNeta": 81,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:06:56",
+"precioApertura": 4168.93,
+"cierre": "19/10/2026 01:09:49",
+"precioCierre": 4170.55,
+"gananciaNeta": 81,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 01:06:58",
+"precioApertura": 4168.85,
+"cierre": "19/10/2026 01:09:49",
+"precioCierre": 4170.55,
+"gananciaNeta": 85,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "BTCUSD",
+"apertura": "18/10/2026 20:45:55",
+"precioApertura": 81161,
+"cierre": "19/10/2026 01:06:21",
+"precioCierre": 81564.5,
+"gananciaNeta": 217.75,
+"digits": 3
+},
+{
+"lado": "BUY",
+"activo": "BTCUSD",
+"apertura": "18/10/2026 19:26:51",
+"precioApertura": 81260.2,
+"cierre": "18/10/2026 19:41:47",
+"precioCierre": 81088.18,
+"gananciaNeta": -106.33,
+"digits": 3
+},
+{
+"lado": "BUY",
+"activo": "BTCUSD",
+"apertura": "17/10/2026 20:47:26",
+"precioApertura": 81331.6,
+"cierre": "17/10/2026 20:51:17",
+"precioCierre": 81335.32,
+"gananciaNeta": -18.47,
+"digits": 3
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 19:05:38",
+"precioApertura": 4166.24,
+"cierre": "16/10/2026 19:32:13",
+"precioCierre": 4161.63,
+"gananciaNeta": 230.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 19:05:38",
+"precioApertura": 4166.26,
+"cierre": "16/10/2026 19:32:13",
+"precioCierre": 4161.63,
+"gananciaNeta": 231.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 18:58:01",
+"precioApertura": 4169.94,
+"cierre": "16/10/2026 19:03:30",
+"precioCierre": 4164.18,
+"gananciaNeta": 288,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 18:58:01",
+"precioApertura": 4169.95,
+"cierre": "16/10/2026 19:03:30",
+"precioCierre": 4164.18,
+"gananciaNeta": 288.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 18:58:04",
+"precioApertura": 4169.92,
+"cierre": "16/10/2026 19:03:30",
+"precioCierre": 4164.18,
+"gananciaNeta": 287,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "DJIUSD",
+"apertura": "16/10/2026 18:41:52",
+"precioApertura": 52306.1,
+"cierre": "16/10/2026 18:57:35",
+"precioCierre": 52240.3,
+"gananciaNeta": 328,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 18:47:32",
+"precioApertura": 4173.51,
+"cierre": "16/10/2026 18:57:35",
+"precioCierre": 4171.4,
+"gananciaNeta": 211,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 18:30:31",
+"precioApertura": 4176.59,
+"cierre": "16/10/2026 18:47:19",
+"precioCierre": 4173.48,
+"gananciaNeta": -155.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 18:30:31",
+"precioApertura": 4176.57,
+"cierre": "16/10/2026 18:47:16",
+"precioCierre": 4173.5,
+"gananciaNeta": -153.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "DJIUSD",
+"apertura": "16/10/2026 18:30:17",
+"precioApertura": 52294,
+"cierre": "16/10/2026 18:33:00",
+"precioCierre": 52329.2,
+"gananciaNeta": -177,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 18:25:47",
+"precioApertura": 4175.91,
+"cierre": "16/10/2026 18:26:24",
+"precioCierre": 4174.63,
+"gananciaNeta": 64,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 18:25:48",
+"precioApertura": 4175.91,
+"cierre": "16/10/2026 18:26:24",
+"precioCierre": 4174.63,
+"gananciaNeta": 64,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "DJIUSD",
+"apertura": "16/10/2026 18:20:48",
+"precioApertura": 52358.5,
+"cierre": "16/10/2026 18:24:36",
+"precioCierre": 52306.2,
+"gananciaNeta": 260.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "NDXUSD",
+"apertura": "16/10/2026 18:02:10",
+"precioApertura": 29614.2,
+"cierre": "16/10/2026 18:09:58",
+"precioCierre": 29505.7,
+"gananciaNeta": 1083,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "NDXUSD",
+"apertura": "16/10/2026 17:53:58",
+"precioApertura": 29651.2,
+"cierre": "16/10/2026 18:01:34",
+"precioCierre": 29618.5,
+"gananciaNeta": 325,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "DJIUSD",
+"apertura": "16/10/2026 17:49:45",
+"precioApertura": 52397.2,
+"cierre": "16/10/2026 17:51:07",
+"precioCierre": 52419.6,
+"gananciaNeta": 111,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 17:33:50",
+"precioApertura": 4191.78,
+"cierre": "16/10/2026 17:40:39",
+"precioCierre": 4188.2,
+"gananciaNeta": 179,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "NDXUSD",
+"apertura": "16/10/2026 17:33:40",
+"precioApertura": 29667.8,
+"cierre": "16/10/2026 17:40:39",
+"precioCierre": 29718.3,
+"gananciaNeta": 503,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "NDXUSD",
+"apertura": "16/10/2026 17:30:03",
+"precioApertura": 29612,
+"cierre": "16/10/2026 17:33:38",
+"precioCierre": 29671.9,
+"gananciaNeta": -601,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 16:34:05",
+"precioApertura": 4162.21,
+"cierre": "16/10/2026 17:25:57",
+"precioCierre": 4197.58,
+"gananciaNeta": 1768.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 16:50:43",
+"precioApertura": 4180.59,
+"cierre": "16/10/2026 17:25:57",
+"precioCierre": 4197.58,
+"gananciaNeta": 849.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 16:33:53",
+"precioApertura": 4161.94,
+"cierre": "16/10/2026 17:25:57",
+"precioCierre": 4197.58,
+"gananciaNeta": 3564,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "15/10/2026 03:47:45",
+"precioApertura": 4139.63,
+"cierre": "15/10/2026 03:52:17",
+"precioCierre": 4140.03,
+"gananciaNeta": -40,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "15/10/2026 03:23:41",
+"precioApertura": 4142.76,
+"cierre": "15/10/2026 03:46:23",
+"precioCierre": 4143.75,
+"gananciaNeta": 99,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "15/10/2026 03:13:49",
+"precioApertura": 4126.23,
+"cierre": "15/10/2026 03:15:16",
+"precioCierre": 4128.74,
+"gananciaNeta": 251,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "15/10/2026 03:11:57",
+"precioApertura": 4121.61,
+"cierre": "15/10/2026 03:12:18",
+"precioCierre": 4122.76,
+"gananciaNeta": 115,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "15/10/2026 03:09:14",
+"precioApertura": 4118.39,
+"cierre": "15/10/2026 03:11:34",
+"precioCierre": 4120.69,
+"gananciaNeta": 230,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "15/10/2026 03:03:40",
+"precioApertura": 4114.28,
+"cierre": "15/10/2026 03:06:16",
+"precioCierre": 4117.59,
+"gananciaNeta": 331,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "15/10/2026 03:00:01",
+"precioApertura": 4111.79,
+"cierre": "15/10/2026 03:02:43",
+"precioCierre": 4112.14,
+"gananciaNeta": 35,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "15/10/2026 02:56:07",
+"precioApertura": 4109.05,
+"cierre": "15/10/2026 02:59:01",
+"precioCierre": 4112.17,
+"gananciaNeta": 312,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "NDXUSD",
+"apertura": "15/10/2026 02:53:43",
+"precioApertura": 29663.6,
+"cierre": "15/10/2026 02:55:54",
+"precioCierre": 29674.5,
+"gananciaNeta": -55.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "15/10/2026 02:52:12",
+"precioApertura": 4108.66,
+"cierre": "15/10/2026 02:53:10",
+"precioCierre": 4109.04,
+"gananciaNeta": 38,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "15/10/2026 02:45:00",
+"precioApertura": 4105.17,
+"cierre": "15/10/2026 02:50:01",
+"precioCierre": 4108.37,
+"gananciaNeta": 160,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "15/10/2026 02:45:00",
+"precioApertura": 4105.17,
+"cierre": "15/10/2026 02:50:01",
+"precioCierre": 4108.37,
+"gananciaNeta": 160,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "NDXUSD",
+"apertura": "15/10/2026 02:32:55",
+"precioApertura": 29740.2,
+"cierre": "15/10/2026 02:44:36",
+"precioCierre": 29714.1,
+"gananciaNeta": -131.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "NDXUSD",
+"apertura": "15/10/2026 02:17:48",
+"precioApertura": 29737.3,
+"cierre": "15/10/2026 02:32:04",
+"precioCierre": 29730,
+"gananciaNeta": 35.5,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "15/10/2026 02:11:33",
+"precioApertura": 4100.67,
+"cierre": "15/10/2026 02:16:27",
+"precioCierre": 4104.61,
+"gananciaNeta": 197,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "15/10/2026 02:11:42",
+"precioApertura": 4100.62,
+"cierre": "15/10/2026 02:16:27",
+"precioCierre": 4104.61,
+"gananciaNeta": 199.5,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "NDXUSD",
+"apertura": "15/10/2026 02:07:41",
+"precioApertura": 29767.3,
+"cierre": "15/10/2026 02:11:15",
+"precioCierre": 29766.1,
+"gananciaNeta": 5,
+"digits": 2
+}
+],
+"ideasTrade": [],
+"diasSinOperar": 0,
+"totalDiasTorneo": 0,
+"diasOperados": 6,
+"diasMinimos": 7,
+"diasMinimosRequeridos": 5,
+"equidadIniciodia": 0,
+"equidadActual": 0,
+"equidadDiferenciaPct": 0
+}

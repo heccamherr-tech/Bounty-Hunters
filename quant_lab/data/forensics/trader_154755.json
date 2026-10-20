@@ -1,0 +1,124 @@
+{
+"tasaExito": 55.56,
+"ratio": 6.5,
+"totalTrades": 9,
+"pyg": [
+{
+"fecha": "14/10",
+"valor": 5000
+},
+{
+"fecha": "16/10",
+"valor": 5184.32
+},
+{
+"fecha": "19/10",
+"valor": 5181.32
+},
+{
+"fecha": "20/10",
+"valor": 5900.32
+}
+],
+"operaciones": [
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "20/10/2026 06:07:34",
+"precioApertura": 4143.36,
+"cierre": "20/10/2026 06:13:32",
+"precioCierre": 4143.43,
+"gananciaNeta": -7,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "20/10/2026 05:55:27",
+"precioApertura": 4138.7,
+"cierre": "20/10/2026 06:07:04",
+"precioCierre": 4143.76,
+"gananciaNeta": 506,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "20/10/2026 05:53:52",
+"precioApertura": 4138,
+"cierre": "20/10/2026 05:55:12",
+"precioCierre": 4137.01,
+"gananciaNeta": -99,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "20/10/2026 05:45:36",
+"precioApertura": 4133.9,
+"cierre": "20/10/2026 05:52:22",
+"precioCierre": 4137.09,
+"gananciaNeta": 319,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "19/10/2026 15:36:31",
+"precioApertura": 4162.11,
+"cierre": "19/10/2026 15:41:52",
+"precioCierre": 4162.08,
+"gananciaNeta": -3,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 19:23:33",
+"precioApertura": 4165.99,
+"cierre": "16/10/2026 19:43:14",
+"precioCierre": 4165.06,
+"gananciaNeta": 6.51,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 16:00:01",
+"precioApertura": 4166.87,
+"cierre": "16/10/2026 16:22:33",
+"precioCierre": 4157.05,
+"gananciaNeta": 68.74,
+"digits": 2
+},
+{
+"lado": "SELL",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 15:51:19",
+"precioApertura": 4175.11,
+"cierre": "16/10/2026 16:22:33",
+"precioCierre": 4157.05,
+"gananciaNeta": 126.42,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "XAUUSD",
+"apertura": "16/10/2026 04:00:57",
+"precioApertura": 4155.25,
+"cierre": "16/10/2026 04:21:11",
+"precioCierre": 4151.78,
+"gananciaNeta": -17.35,
+"digits": 2
+}
+],
+"ideasTrade": [],
+"diasSinOperar": 0,
+"totalDiasTorneo": 0,
+"diasOperados": 3,
+"diasMinimos": 7,
+"diasMinimosRequeridos": 5,
+"equidadIniciodia": 0,
+"equidadActual": 0,
+"equidadDiferenciaPct": 0
+}

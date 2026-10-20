@@ -1,0 +1,126 @@
+{
+"tasaExito": 90,
+"ratio": 11.51,
+"totalTrades": 10,
+"pyg": [
+{
+"fecha": "14/10",
+"valor": 5000
+},
+{
+"fecha": "15/10",
+"valor": 6026.2
+}
+],
+"operaciones": [
+{
+"lado": "BUY",
+"activo": "NDXUSD",
+"apertura": "15/10/2026 07:48:14",
+"precioApertura": 29726.4,
+"cierre": "15/10/2026 20:07:02",
+"precioCierre": 29761.8,
+"gananciaNeta": 35.2,
+"digits": 2
+},
+{
+"lado": "BUY",
+"activo": "GBPUSD",
+"apertura": "15/10/2026 02:08:11",
+"precioApertura": 1.32039,
+"cierre": "15/10/2026 03:02:40",
+"precioCierre": 1.3229,
+"gananciaNeta": 24.8,
+"digits": 5
+},
+{
+"lado": "BUY",
+"activo": "GBPUSD",
+"apertura": "15/10/2026 02:08:12",
+"precioApertura": 1.3204,
+"cierre": "15/10/2026 03:02:40",
+"precioCierre": 1.3229,
+"gananciaNeta": 24.7,
+"digits": 5
+},
+{
+"lado": "BUY",
+"activo": "EURUSD",
+"apertura": "15/10/2026 02:07:49",
+"precioApertura": 1.11715,
+"cierre": "15/10/2026 03:02:40",
+"precioCierre": 1.11927,
+"gananciaNeta": 209,
+"digits": 5
+},
+{
+"lado": "BUY",
+"activo": "EURUSD",
+"apertura": "15/10/2026 02:07:50",
+"precioApertura": 1.11715,
+"cierre": "15/10/2026 03:02:40",
+"precioCierre": 1.11927,
+"gananciaNeta": 209,
+"digits": 5
+},
+{
+"lado": "BUY",
+"activo": "GBPUSD",
+"apertura": "15/10/2026 02:05:33",
+"precioApertura": 1.32022,
+"cierre": "15/10/2026 03:02:40",
+"precioCierre": 1.3229,
+"gananciaNeta": 265,
+"digits": 5
+},
+{
+"lado": "BUY",
+"activo": "EURUSD",
+"apertura": "15/10/2026 02:06:45",
+"precioApertura": 1.11707,
+"cierre": "15/10/2026 03:02:40",
+"precioCierre": 1.11927,
+"gananciaNeta": 217,
+"digits": 5
+},
+{
+"lado": "SELL",
+"activo": "EURUSD",
+"apertura": "15/10/2026 02:04:52",
+"precioApertura": 1.11695,
+"cierre": "15/10/2026 02:06:37",
+"precioCierre": 1.11712,
+"gananciaNeta": -10,
+"digits": 5
+},
+{
+"lado": "BUY",
+"activo": "GBPUSD",
+"apertura": "15/10/2026 01:33:50",
+"precioApertura": 1.31976,
+"cierre": "15/10/2026 02:04:44",
+"precioCierre": 1.32022,
+"gananciaNeta": 21.5,
+"digits": 5
+},
+{
+"lado": "BUY",
+"activo": "EURUSD",
+"apertura": "15/10/2026 01:30:24",
+"precioApertura": 1.11632,
+"cierre": "15/10/2026 02:04:41",
+"precioCierre": 1.11695,
+"gananciaNeta": 30,
+"digits": 5
+}
+],
+"ideasTrade": [],
+"diasSinOperar": 5,
+"totalDiasTorneo": 0,
+"diasOperados": 1,
+"diasMinimos": 7,
+"diasMinimosRequeridos": 5,
+"equidadIniciodia": 0,
+"equidadActual": 0,
+"equidadDiferenciaPct": 0
+}

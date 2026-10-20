@@ -1,0 +1,36 @@
+{
+"tasaExito": 100,
+"ratio": 0,
+"totalTrades": 1,
+"pyg": [
+{
+"fecha": "14/10",
+"valor": 5000
+},
+{
+"fecha": "20/10",
+"valor": 5816
+}
+],
+"operaciones": [
+{
+"lado": "BUY",
+"activo": "EURUSD",
+"apertura": "20/10/2026 13:51:53",
+"precioApertura": 1.12097,
+"cierre": "20/10/2026 16:33:16",
+"precioCierre": 1.12304,
+"gananciaNeta": 816,
+"digits": 5
+}
+],
+"ideasTrade": [],
+"diasSinOperar": 0,
+"totalDiasTorneo": 0,
+"diasOperados": 1,
+"diasMinimos": 7,
+"diasMinimosRequeridos": 5,
+"equidadIniciodia": 0,
+"equidadActual": 0,
+"equidadDiferenciaPct": 0
+}
